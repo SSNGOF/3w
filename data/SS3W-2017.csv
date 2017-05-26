@@ -1,6 +1,6 @@
 Organisation,SectorCluster,County
 Management Sciences for Health,Health,Juba
-Management Sciences for Health,Health,Kajo Keji
+Management Sciences for Health,Health,Kajoo Keji
 Management Sciences for Health,Health,Lainya
 Management Sciences for Health,Health,Morobo
 Management Sciences for Health,Health,Terekeka
@@ -16,7 +16,7 @@ Management Sciences for Health,Health,Nzara
 Management Sciences for Health,Health,Tambura
 Management Sciences for Health,Health,Yambio
 Management Sciences for Health,CCCM,Juba
-Management Sciences for Health,CCCM,Kajo Keji
+Management Sciences for Health,CCCM,Kajoo Keji
 Management Sciences for Health,CCCM,Lainya
 Management Sciences for Health,CCCM,Morobo
 Management Sciences for Health,CCCM,Terekeka
@@ -35,7 +35,7 @@ Management Sciences for Health,CCCM,Nzara
 Management Sciences for Health,CCCM,Tambura
 Management Sciences for Health,CCCM,Yambio
 Norwegian Peopel's Aid,Food Security & Livlihoods,Juba
-Norwegian Peopel's Aid,Food Security & Livlihoods,Kajo Keji
+Norwegian Peopel's Aid,Food Security & Livlihoods,Kajoo Keji
 Norwegian Peopel's Aid,Food Security & Livlihoods,Ikotos
 Norwegian Peopel's Aid,Food Security & Livlihoods,Torit
 Norwegian Peopel's Aid,Food Security & Livlihoods,Mvolo
@@ -92,14 +92,14 @@ Norwegian Peopel's Aid,Environment & Natural Resources,Wau
 Norwegian Peopel's Aid,Environment & Natural Resources,Gogrial West
 Norwegian Peopel's Aid,Media,Juba
 CBM,Health,Juba
-CBM,Health,Kajo Keji
+CBM,Health,Kajoo Keji
 CBM,Health,Lainya
 CBM,Health,Morobo
 CBM,Health,Terekeka
 CBM,Health,Yei
 CBM,Protection,Juba
 Polish Humanitarian Action,Shelter and Non-Food Items,Juba
-Polish Humanitarian Action,Shelter and Non-Food Items,Kajo Keji
+Polish Humanitarian Action,Shelter and Non-Food Items,Kajoo Keji
 Polish Humanitarian Action,Shelter and Non-Food Items,Lainya
 Polish Humanitarian Action,Shelter and Non-Food Items,Morobo
 Polish Humanitarian Action,Shelter and Non-Food Items,Terekeka
@@ -143,7 +143,7 @@ Polish Humanitarian Action,Shelter and Non-Food Items,Pariang
 Polish Humanitarian Action,Shelter and Non-Food Items,Panyijar
 Polish Humanitarian Action,Shelter and Non-Food Items,Rubkona
 Polish Humanitarian Action,WASH,Juba
-Polish Humanitarian Action,WASH,Kajo Keji
+Polish Humanitarian Action,WASH,Kajoo Keji
 Polish Humanitarian Action,WASH,Lainya
 Polish Humanitarian Action,WASH,Morobo
 Polish Humanitarian Action,WASH,Terekeka
@@ -268,7 +268,7 @@ Open Society Institute Company Limited,Protection,Rumbek Centre
 Open Society Institute Company Limited,Protection,Wau
 Open Society Institute Company Limited,Protection,Tonj South
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Juba
-Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Kajo Keji
+Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Kajoo Keji
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Lainya
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Morobo
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Yei
@@ -279,7 +279,7 @@ Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Tambu
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Yambio
 Open Society Institute Company Limited,Conflict Prevention & Peacebuilding,Wau
 Open Society Institute Company Limited,Governance & Rule of Law,Juba
-Open Society Institute Company Limited,Governance & Rule of Law,Kajo Keji
+Open Society Institute Company Limited,Governance & Rule of Law,Kajoo Keji
 Open Society Institute Company Limited,Governance & Rule of Law,Lainya
 Open Society Institute Company Limited,Governance & Rule of Law,Morobo
 Open Society Institute Company Limited,Governance & Rule of Law,Yei
@@ -287,7 +287,7 @@ Open Society Institute Company Limited,Governance & Rule of Law,Ikotos
 Open Society Institute Company Limited,Governance & Rule of Law,Magwi
 Open Society Institute Company Limited,Governance & Rule of Law,Wau
 Open Society Institute Company Limited,Media,Juba
-Open Society Institute Company Limited,Media,Kajo Keji
+Open Society Institute Company Limited,Media,Kajoo Keji
 Open Society Institute Company Limited,Media,Lainya
 Open Society Institute Company Limited,Media,Morobo
 Open Society Institute Company Limited,Media,Terekeka
@@ -414,7 +414,7 @@ SOLIDARITES INTERNATIONAL,Food Security & Livlihoods,Fangak
 SOLIDARITES INTERNATIONAL,Food Security & Livlihoods,Fashoda
 SOLIDARITES INTERNATIONAL,Food Security & Livlihoods,Malakal
 SOLIDARITES INTERNATIONAL,WASH,Juba
-SOLIDARITES INTERNATIONAL,WASH,Kajo Keji
+SOLIDARITES INTERNATIONAL,WASH,Kajoo Keji
 SOLIDARITES INTERNATIONAL,WASH,Yei
 SOLIDARITES INTERNATIONAL,WASH,Fangak
 SOLIDARITES INTERNATIONAL,WASH,Aweil Centre
@@ -464,7 +464,7 @@ Windle Trust International,Education,Pariang
 Windle Trust International,Education,Panyijar
 Windle Trust International,Education,Rubkona
 IntraHealth International,Health,Juba
-IntraHealth International,Health,Kajo Keji
+IntraHealth International,Health,Kajoo Keji
 IntraHealth International,Health,Yei
 IntraHealth International,Health,Lafon
 IntraHealth International,Health,Magwi
@@ -597,7 +597,7 @@ World Vision,Governance & Rule of Law,Gogrial West
 World Vision,Governance & Rule of Law,Tonj North
 World Vision,Governance & Rule of Law,Twic
 MEDAIR South Sudan,Education,Juba
-MEDAIR South Sudan,Education,Kajo Keji
+MEDAIR South Sudan,Education,Kajoo Keji
 MEDAIR South Sudan,Education,Lafon
 MEDAIR South Sudan,Education,Mundri East
 MEDAIR South Sudan,Education,Ayod
@@ -637,7 +637,7 @@ MEDAIR South Sudan,Shelter and Non-Food Items,Aweil Centre
 MEDAIR South Sudan,Shelter and Non-Food Items,Leer
 MEDAIR South Sudan,Shelter and Non-Food Items,Mayendit
 MEDAIR South Sudan,WASH,Juba
-MEDAIR South Sudan,WASH,Kajo Keji
+MEDAIR South Sudan,WASH,Kajoo Keji
 MEDAIR South Sudan,WASH,Yei
 MEDAIR South Sudan,WASH,Lafon
 MEDAIR South Sudan,WASH,Ayod
@@ -746,7 +746,7 @@ Population Services International,CCCM,Mundri East
 Population Services International,CCCM,Wau
 Population Services International,Nutrition,Wau
 International Medical Corps ,Education,Juba
-International Medical Corps ,Education,Kajo Keji
+International Medical Corps ,Education,Kajoo Keji
 International Medical Corps ,Education,Wau
 International Medical Corps ,Health,Juba
 International Medical Corps ,Health,Akobo
@@ -899,20 +899,20 @@ Plan International South Sudan,Conflict Prevention & Peacebuilding,Magwi
 Plan International South Sudan,Conflict Prevention & Peacebuilding,Akobo
 Plan International South Sudan,Conflict Prevention & Peacebuilding,Pibor
 FEDERATION HANDICAP INTERNATIONAL,Education,Juba
-FEDERATION HANDICAP INTERNATIONAL,Education,Kajo Keji
+FEDERATION HANDICAP INTERNATIONAL,Education,Kajoo Keji
 FEDERATION HANDICAP INTERNATIONAL,Education,Yei
 FEDERATION HANDICAP INTERNATIONAL,Education,Torit
 FEDERATION HANDICAP INTERNATIONAL,Education,Akobo
 FEDERATION HANDICAP INTERNATIONAL,Education,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Juba
-FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Kajo Keji
+FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Kajoo Keji
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Yei
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Torit
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Akobo
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Rubkona
 FEDERATION HANDICAP INTERNATIONAL,Health,Juba
-FEDERATION HANDICAP INTERNATIONAL,Health,Kajo Keji
+FEDERATION HANDICAP INTERNATIONAL,Health,Kajoo Keji
 FEDERATION HANDICAP INTERNATIONAL,Health,Yei
 FEDERATION HANDICAP INTERNATIONAL,Health,Torit
 FEDERATION HANDICAP INTERNATIONAL,Health,Maridi
@@ -968,7 +968,7 @@ Internews,Media,Aweil North
 Internews,Media,Pariang
 Internews,Media,Rubkona
 Internews,Media,Malakal
-Internews,Media,Abyei Region
+Internews,Media,Abyei region
 Internews,Media,Twic
 ICCO Cooperation,Food Security & Livlihoods,Yei
 ICCO Cooperation,Food Security & Livlihoods,Magwi
@@ -1079,7 +1079,7 @@ Sightsavers International,Health,Nzara
 Sightsavers International,Health,Tambura
 Sightsavers International,Health,Yambio
 Stromme Foundation,Education,Juba
-Stromme Foundation,Education,Kajo Keji
+Stromme Foundation,Education,Kajoo Keji
 Stromme Foundation,Education,Lainya
 Stromme Foundation,Education,Morobo
 Stromme Foundation,Education,Terekeka
@@ -1087,20 +1087,20 @@ Stromme Foundation,Education,Yei
 Stromme Foundation,Education,Kapoeta East
 Stromme Foundation,Education,Aweil Centre
 Stromme Foundation,Food Security & Livlihoods,Juba
-Stromme Foundation,Food Security & Livlihoods,Kajo Keji
+Stromme Foundation,Food Security & Livlihoods,Kajoo Keji
 Stromme Foundation,Food Security & Livlihoods,Lainya
 Stromme Foundation,Food Security & Livlihoods,Morobo
 Stromme Foundation,Food Security & Livlihoods,Terekeka
 Stromme Foundation,Food Security & Livlihoods,Yei
 Stromme Foundation,Conflict Prevention & Peacebuilding,Juba
-Stromme Foundation,Conflict Prevention & Peacebuilding,Kajo Keji
+Stromme Foundation,Conflict Prevention & Peacebuilding,Kajoo Keji
 Stromme Foundation,Conflict Prevention & Peacebuilding,Lainya
 Stromme Foundation,Conflict Prevention & Peacebuilding,Morobo
 Stromme Foundation,Conflict Prevention & Peacebuilding,Terekeka
 Stromme Foundation,Conflict Prevention & Peacebuilding,Yei
 Stromme Foundation,Conflict Prevention & Peacebuilding,Kapoeta East
 Stromme Foundation,Environment & Natural Resources,Juba
-Stromme Foundation,Environment & Natural Resources,Kajo Keji
+Stromme Foundation,Environment & Natural Resources,Kajoo Keji
 Stromme Foundation,Environment & Natural Resources,Lainya
 Stromme Foundation,Environment & Natural Resources,Morobo
 Stromme Foundation,Environment & Natural Resources,Terekeka
@@ -1192,7 +1192,7 @@ Malteser International,Food Security & Livlihoods,Juba
 Malteser International,Food Security & Livlihoods,Maridi
 Malteser International,Food Security & Livlihoods,Rumbek Centre
 Malteser International,Food Security & Livlihoods,Wau
-Malteser International,Health,Kajo Keji
+Malteser International,Health,Kajoo Keji
 Malteser International,Health,Yei
 Malteser International,Nutrition,Juba
 Malteser International,Nutrition,Maridi
@@ -1389,24 +1389,24 @@ Christian Aid,Media,Gogrial East
 GOAL Ireland South Sudan,Food Security & Livlihoods,Maiwut
 GOAL Ireland South Sudan,Food Security & Livlihoods,Melut
 GOAL Ireland South Sudan,Food Security & Livlihoods,Ulang
-GOAL Ireland South Sudan,Food Security & Livlihoods,Abyei Region
+GOAL Ireland South Sudan,Food Security & Livlihoods,Abyei region
 GOAL Ireland South Sudan,Food Security & Livlihoods,Twic
 GOAL Ireland South Sudan,Health,Maiwut
 GOAL Ireland South Sudan,Health,Melut
 GOAL Ireland South Sudan,Health,Ulang
-GOAL Ireland South Sudan,Health,Abyei Region
+GOAL Ireland South Sudan,Health,Abyei region
 GOAL Ireland South Sudan,Health,Twic
 GOAL Ireland South Sudan,Nutrition,Maiwut
 GOAL Ireland South Sudan,Nutrition,Melut
 GOAL Ireland South Sudan,Nutrition,Ulang
-GOAL Ireland South Sudan,Nutrition,Abyei Region
+GOAL Ireland South Sudan,Nutrition,Abyei region
 GOAL Ireland South Sudan,Nutrition,Twic
-American Refugee Committee International,Health,Kajo Keji
+American Refugee Committee International,Health,Kajoo Keji
 American Refugee Committee International,Health,Kapoeta East
 American Refugee Committee International,Health,Kapoeta North
 American Refugee Committee International,Health,Magwi
 American Refugee Committee International,Health,Aweil Centre
-American Refugee Committee International,Nutrition,Kajo Keji
+American Refugee Committee International,Nutrition,Kajoo Keji
 American Refugee Committee International,Protection,Aweil Centre
 ChildFund Korea South Sudan Office,Education,Juba
 ChildFund Korea South Sudan Office,Education,Magwi
@@ -1424,7 +1424,7 @@ Catholic Relief Services ,Shelter and Non-Food Items,Duk
 Catholic Relief Services ,Conflict Prevention & Peacebuilding,Magwi
 Catholic Relief Services ,Conflict Prevention & Peacebuilding,Torit
 Malaria Consortium,Health,Juba
-Malaria Consortium,Health,Kajo Keji
+Malaria Consortium,Health,Kajoo Keji
 Malaria Consortium,Health,Lainya
 Malaria Consortium,Health,Morobo
 Malaria Consortium,Health,Terekeka
@@ -1440,7 +1440,7 @@ Malaria Consortium,Nutrition,Aweil North
 Malaria Consortium,Nutrition,Aweil South
 Malaria Consortium,Nutrition,Aweil West
 Centers for International Programs,Health,Juba
-Centers for International Programs,Health,Kajo Keji
+Centers for International Programs,Health,Kajoo Keji
 Centers for International Programs,Health,Yei
 Centers for International Programs,Health,Kapoeta East
 Centers for International Programs,Health,Kapoeta North
@@ -1460,7 +1460,7 @@ Joint Aid Manangement,Food Security & Livlihoods,Aweil Centre
 Joint Aid Manangement,Food Security & Livlihoods,Aweil East
 Joint Aid Manangement,Nutrition,Bor South
 Joint Aid Manangement,Nutrition,Pibor
-Cordaid,Food Security & Livlihoods,Kajo Keji
+Cordaid,Food Security & Livlihoods,Kajoo Keji
 Cordaid,Food Security & Livlihoods,Yambio
 Cordaid,Food Security & Livlihoods,Pibor
 Cordaid,Food Security & Livlihoods,Aweil North
@@ -1543,13 +1543,13 @@ Veterinaires Sans Frontieres Suisse ,Food Security & Livlihoods,Pariang
 Veterinaires Sans Frontieres Suisse ,Food Security & Livlihoods,Panyijar
 Veterinaires Sans Frontieres Suisse ,Food Security & Livlihoods,Rubkona
 Veterinaires Sans Frontieres Suisse ,Protection,Pibor
-Agency for voluntary initiative in development (AVID),Education,Kajo Keji
-Agency for voluntary initiative in development (AVID),Food Security & Livlihoods,Kajo Keji
+Agency for voluntary initiative in development (AVID),Education,Kajoo Keji
+Agency for voluntary initiative in development (AVID),Food Security & Livlihoods,Kajoo Keji
 Agency for voluntary initiative in development (AVID),Health,Juba
 Agency for voluntary initiative in development (AVID),CCCM,Terekeka
 Agency for voluntary initiative in development (AVID),Mine Action,Ibba
 Agency for voluntary initiative in development (AVID),Nutrition,Lainya
-Agency for voluntary initiative in development (AVID),Protection,Kajo Keji
+Agency for voluntary initiative in development (AVID),Protection,Kajoo Keji
 Agency for voluntary initiative in development (AVID),WASH,Juba
 Agency for voluntary initiative in development (AVID),Conflict Prevention & Peacebuilding,Juba
 Agency for voluntary initiative in development (AVID),Governance & Rule of Law,Budi
@@ -1597,7 +1597,7 @@ childfund korea (cfk),WASH,Juba
 childfund korea (cfk),WASH,Budi
 childfund korea (cfk),WASH,Bor South
 German Leprosy and TB Relief Association ,Health,Juba
-German Leprosy and TB Relief Association ,Health,Kajo Keji
+German Leprosy and TB Relief Association ,Health,Kajoo Keji
 German Leprosy and TB Relief Association ,Health,Lainya
 German Leprosy and TB Relief Association ,Health,Morobo
 German Leprosy and TB Relief Association ,Health,Terekeka
@@ -1798,7 +1798,7 @@ MALARIA CONSORTIUM,Nutrition,Aweil East
 MALARIA CONSORTIUM,Nutrition,Aweil South
 MALARIA CONSORTIUM,Nutrition,Aweil West
 Islamic Relief,Education,Juba
-Islamic Relief,Education,Kajo Keji
+Islamic Relief,Education,Kajoo Keji
 Islamic Relief,Education,Lainya
 Islamic Relief,Education,Yei
 Islamic Relief,Education,Kapoeta East
@@ -1886,7 +1886,7 @@ The Lutheran World Federation,WASH,Twic East
 The Lutheran World Federation,WASH,Duk
 The Lutheran World Federation,Conflict Prevention & Peacebuilding,Twic East
 The Lutheran World Federation,Conflict Prevention & Peacebuilding,Duk
-ACTED,Food Security & Livlihoods,Kajo Keji
+ACTED,Food Security & Livlihoods,Kajoo Keji
 ACTED,Food Security & Livlihoods,Akobo
 ACTED,Food Security & Livlihoods,Awerial
 ACTED,Food Security & Livlihoods,Wau
@@ -1894,12 +1894,12 @@ ACTED,Food Security & Livlihoods,Mayom
 ACTED,Food Security & Livlihoods,Maban
 ACTED,Health,Tonj South
 ACTED,CCCM,Juba
-ACTED,CCCM,Kajo Keji
+ACTED,CCCM,Kajoo Keji
 ACTED,CCCM,Bor South
 ACTED,CCCM,Wau
 ACTED,CCCM,Maban
 ACTED,Protection,Juba
-ACTED,Protection,Kajo Keji
+ACTED,Protection,Kajoo Keji
 ACTED,Protection,Bor South
 ACTED,Protection,Wau
 ACTED,Protection,Mayom
@@ -1941,7 +1941,7 @@ SIGN OF HOPE,Nutrition,Panyijar
 SIGN OF HOPE,Shelter and Non-Food Items,Panyijar
 Action Africa Help International,Food Security & Livlihoods,Juba
 Action Africa Help International,Food Security & Livlihoods,Wau
-Action Africa Help International,Health,Kajo Keji
+Action Africa Help International,Health,Kajoo Keji
 Action Africa Help International,Health,Lainya
 Action Africa Help International,Health,Morobo
 Action Africa Help International,Health,Yei
