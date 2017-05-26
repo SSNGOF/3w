@@ -40,7 +40,7 @@ Norwegian Peopel's Aid,Food Security & Livlihoods,Ikotos
 Norwegian Peopel's Aid,Food Security & Livlihoods,Torit
 Norwegian Peopel's Aid,Food Security & Livlihoods,Mvolo
 Norwegian Peopel's Aid,Food Security & Livlihoods,Tambura
-Norwegian Peopel's Aid,Food Security & Livlihoods,Bor
+Norwegian Peopel's Aid,Food Security & Livlihoods,Bor South
 Norwegian Peopel's Aid,Food Security & Livlihoods,Twic East
 Norwegian Peopel's Aid,Food Security & Livlihoods,Fangak
 Norwegian Peopel's Aid,Food Security & Livlihoods,Canal/pigi
@@ -60,7 +60,7 @@ Norwegian Peopel's Aid,Food Security & Livlihoods,Maiwut
 Norwegian Peopel's Aid,CCCM,Fangak
 Norwegian Peopel's Aid,Nutrition,Juba
 Norwegian Peopel's Aid,Nutrition,Terekeka
-Norwegian Peopel's Aid,Nutrition,Bor
+Norwegian Peopel's Aid,Nutrition,Bor South
 Norwegian Peopel's Aid,Nutrition,Twic East
 Norwegian Peopel's Aid,Nutrition,Pochalla
 Norwegian Peopel's Aid,Nutrition,Awerial
@@ -124,7 +124,7 @@ Polish Humanitarian Action,Shelter and Non-Food Items,Tambura
 Polish Humanitarian Action,Shelter and Non-Food Items,Yambio
 Polish Humanitarian Action,Shelter and Non-Food Items,Akobo
 Polish Humanitarian Action,Shelter and Non-Food Items,Ayod
-Polish Humanitarian Action,Shelter and Non-Food Items,Bor
+Polish Humanitarian Action,Shelter and Non-Food Items,Bor South
 Polish Humanitarian Action,Shelter and Non-Food Items,Twic East
 Polish Humanitarian Action,Shelter and Non-Food Items,Duk
 Polish Humanitarian Action,Shelter and Non-Food Items,Fangak
@@ -168,7 +168,7 @@ Polish Humanitarian Action,WASH,Tambura
 Polish Humanitarian Action,WASH,Yambio
 Polish Humanitarian Action,WASH,Akobo
 Polish Humanitarian Action,WASH,Ayod
-Polish Humanitarian Action,WASH,Bor
+Polish Humanitarian Action,WASH,Bor South
 Polish Humanitarian Action,WASH,Twic East
 Polish Humanitarian Action,WASH,Duk
 Polish Humanitarian Action,WASH,Fangak
@@ -216,7 +216,7 @@ Jhpiego,Health,Yambio
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Juba
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Yambio
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Akobo
-AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Bor
+AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Bor South
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Pibor
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Rumbek Centre
 AECOM INTERNATIONAL SOUTH SUDAN (VISTAS PROJECT),Conflict Prevention & Peacebuilding,Rumbek East
@@ -243,7 +243,7 @@ International Rescue Committee,Protection,Panyijar
 International Rescue Committee,Protection,Rubkona
 International Rescue Committee,Shelter and Non-Food Items,Juba
 Intersos,Education,Juba
-Intersos,Education,Bor
+Intersos,Education,Bor South
 Intersos,Education,Mayendit
 Intersos,Education,Mayom
 Intersos,Education,Rubkona
@@ -251,7 +251,7 @@ Intersos,Education,Malakal
 Intersos,Nutrition,Magwi
 Intersos,Protection,Juba
 Intersos,Protection,Akobo
-Intersos,Protection,Bor
+Intersos,Protection,Bor South
 Intersos,Protection,Pibor
 Intersos,Protection,Fashoda
 Intersos,Protection,Malakal
@@ -304,7 +304,7 @@ ZOA South Sudan,Food Security & Livlihoods,Lafon
 ZOA South Sudan,Food Security & Livlihoods,Torit
 ZOA South Sudan,Food Security & Livlihoods,Akobo
 ZOA South Sudan,Food Security & Livlihoods,Ayod
-ZOA South Sudan,Food Security & Livlihoods,Bor
+ZOA South Sudan,Food Security & Livlihoods,Bor South
 ZOA South Sudan,Food Security & Livlihoods,Fangak
 ZOA South Sudan,Food Security & Livlihoods,Canal/pigi
 ZOA South Sudan,Food Security & Livlihoods,Pibor
@@ -316,11 +316,11 @@ ZOA South Sudan,Shelter and Non-Food Items,Fangak
 ZOA South Sudan,Shelter and Non-Food Items,Canal/pigi
 ZOA South Sudan,WASH,Akobo
 ZOA South Sudan,WASH,Ayod
-ZOA South Sudan,WASH,Bor
+ZOA South Sudan,WASH,Bor South
 ZOA South Sudan,WASH,Fangak
 ZOA South Sudan,WASH,Canal/pigi
 ZOA South Sudan,Conflict Prevention & Peacebuilding,Akobo
-ZOA South Sudan,Conflict Prevention & Peacebuilding,Bor
+ZOA South Sudan,Conflict Prevention & Peacebuilding,Bor South
 ZOA South Sudan,Conflict Prevention & Peacebuilding,Pibor
 ZOA South Sudan,Environment & Natural Resources,Lafon
 ZOA South Sudan,Environment & Natural Resources,Torit
@@ -330,7 +330,7 @@ International Red Cross and Red Crescent Societies,Health,Terekeka
 International Red Cross and Red Crescent Societies,Health,Yei
 International Red Cross and Red Crescent Societies,Health,Kapoeta East
 International Red Cross and Red Crescent Societies,Health,Torit
-International Red Cross and Red Crescent Societies,Health,Bor
+International Red Cross and Red Crescent Societies,Health,Bor South
 International Red Cross and Red Crescent Societies,Health,Rumbek North
 International Red Cross and Red Crescent Societies,Health,Aweil Centre
 International Red Cross and Red Crescent Societies,Health,Aweil East
@@ -381,7 +381,7 @@ ACROSS,Governance & Rule of Law,Yirol West
 ACROSS,Environment & Natural Resources,Rumbek East
 ACROSS,Media,Juba
 ACROSS,Media,Yei
-ACROSS,Media,Bor
+ACROSS,Media,Bor South
 ACROSS,Media,Twic East
 ACROSS,Media,Duk
 ACROSS,Media,Pibor
@@ -427,13 +427,13 @@ War Child Holland,Education,Juba
 War Child Holland,Education,Kapoeta South
 War Child Holland,Education,Magwi
 War Child Holland,Education,Torit
-War Child Holland,Education,Bor
+War Child Holland,Education,Bor South
 War Child Holland,Education,Malakal
 War Child Holland,Protection,Juba
 War Child Holland,Protection,Kapoeta South
 War Child Holland,Protection,Magwi
 War Child Holland,Protection,Torit
-War Child Holland,Protection,Bor
+War Child Holland,Protection,Bor South
 War Child Holland,Protection,Malakal
 Windle Trust International,Education,Juba
 Windle Trust International,Education,Ezo
@@ -475,7 +475,7 @@ IntraHealth International,Protection,Yei
 IntraHealth International,Protection,Magwi
 IntraHealth International,Protection,Yambio
 Interchurch Medical Assistance World Health,Health,Juba
-Interchurch Medical Assistance World Health,Health,Bor
+Interchurch Medical Assistance World Health,Health,Bor South
 Interchurch Medical Assistance World Health,Health,Wau
 Interchurch Medical Assistance World Health,Nutrition,Ayod
 Interchurch Medical Assistance World Health,Nutrition,Duk
@@ -601,7 +601,7 @@ MEDAIR South Sudan,Education,Kajo Keji
 MEDAIR South Sudan,Education,Lafon
 MEDAIR South Sudan,Education,Mundri East
 MEDAIR South Sudan,Education,Ayod
-MEDAIR South Sudan,Education,Bor
+MEDAIR South Sudan,Education,Bor South
 MEDAIR South Sudan,Education,Awerial
 MEDAIR South Sudan,Education,Aweil Centre
 MEDAIR South Sudan,Education,Aweil East
@@ -653,7 +653,7 @@ MEDAIR South Sudan,WASH,Renk
 BBC Media Action,Education,Juba
 BBC Media Action,Education,Kapoeta South
 BBC Media Action,Education,Torit
-BBC Media Action,Education,Bor
+BBC Media Action,Education,Bor South
 BBC Media Action,Education,Aweil Centre
 BBC Media Action,Education,Wau
 BRAC South Sudan ,Education,Juba
@@ -715,7 +715,7 @@ War Child Canada,Food Security & Livlihoods,Malakal
 War Child Canada,Conflict Prevention & Peacebuilding,Wau
 War Child Canada,Conflict Prevention & Peacebuilding,Malakal
 PEACE WINDS JAPAN,WASH,Juba
-PEACE WINDS JAPAN,WASH,Bor
+PEACE WINDS JAPAN,WASH,Bor South
 Samaritan's Purse,Food Security & Livlihoods,Aweil East
 Samaritan's Purse,Food Security & Livlihoods,Aweil North
 Samaritan's Purse,Food Security & Livlihoods,Abiemnon
@@ -853,7 +853,7 @@ Plan International South Sudan,Education,Lafon
 Plan International South Sudan,Education,Magwi
 Plan International South Sudan,Education,Torit
 Plan International South Sudan,Education,Akobo
-Plan International South Sudan,Education,Bor
+Plan International South Sudan,Education,Bor South
 Plan International South Sudan,Education,Pibor
 Plan International South Sudan,Education,Awerial
 Plan International South Sudan,Education,Cueibet
@@ -870,7 +870,7 @@ Plan International South Sudan,Food Security & Livlihoods,Kapoeta South
 Plan International South Sudan,Food Security & Livlihoods,Lafon
 Plan International South Sudan,Food Security & Livlihoods,Torit
 Plan International South Sudan,Nutrition,Akobo
-Plan International South Sudan,Nutrition,Bor
+Plan International South Sudan,Nutrition,Bor South
 Plan International South Sudan,Nutrition,Pibor
 Plan International South Sudan,Nutrition,Awerial
 Plan International South Sudan,Nutrition,Cueibet
@@ -884,7 +884,7 @@ Plan International South Sudan,Protection,Terekeka
 Plan International South Sudan,Protection,Yei
 Plan International South Sudan,Protection,Magwi
 Plan International South Sudan,Protection,Akobo
-Plan International South Sudan,Protection,Bor
+Plan International South Sudan,Protection,Bor South
 Plan International South Sudan,Protection,Pibor
 Plan International South Sudan,Protection,Awerial
 Plan International South Sudan,Shelter and Non-Food Items,Yei
@@ -903,13 +903,13 @@ FEDERATION HANDICAP INTERNATIONAL,Education,Kajo Keji
 FEDERATION HANDICAP INTERNATIONAL,Education,Yei
 FEDERATION HANDICAP INTERNATIONAL,Education,Torit
 FEDERATION HANDICAP INTERNATIONAL,Education,Akobo
-FEDERATION HANDICAP INTERNATIONAL,Education,Bor
+FEDERATION HANDICAP INTERNATIONAL,Education,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Juba
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Kajo Keji
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Yei
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Torit
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Akobo
-FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Bor
+FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Food Security & Livlihoods,Rubkona
 FEDERATION HANDICAP INTERNATIONAL,Health,Juba
 FEDERATION HANDICAP INTERNATIONAL,Health,Kajo Keji
@@ -918,7 +918,7 @@ FEDERATION HANDICAP INTERNATIONAL,Health,Torit
 FEDERATION HANDICAP INTERNATIONAL,Health,Maridi
 FEDERATION HANDICAP INTERNATIONAL,Health,Yambio
 FEDERATION HANDICAP INTERNATIONAL,Health,Akobo
-FEDERATION HANDICAP INTERNATIONAL,Health,Bor
+FEDERATION HANDICAP INTERNATIONAL,Health,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Health,Pibor
 FEDERATION HANDICAP INTERNATIONAL,Health,Awerial
 FEDERATION HANDICAP INTERNATIONAL,Health,Rumbek Centre
@@ -941,7 +941,7 @@ FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Yei
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Torit
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Maridi
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Akobo
-FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Bor
+FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Bor South
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Mayendit
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Rubkona
 FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Maban
@@ -950,7 +950,7 @@ FEDERATION HANDICAP INTERNATIONAL,Shelter and Non-Food Items,Melut
 Vanda Aid,Education,Juba
 Vanda Aid,Health,Juba
 The Leprosy Mission International,Health,Juba
-The Leprosy Mission International,Health,Bor
+The Leprosy Mission International,Health,Bor South
 The Leprosy Mission International,Health,Twic East
 The Leprosy Mission International,Health,Duk
 VETERINARIANS WITHOUT BORDERS - CANADA,Food Security & Livlihoods,Aweil East
@@ -962,7 +962,7 @@ VETERINARIANS WITHOUT BORDERS - CANADA,Food Security & Livlihoods,Tonj East
 VETERINARIANS WITHOUT BORDERS - CANADA,Food Security & Livlihoods,Tonj North
 Internews,Media,Juba
 Internews,Media,Kapoeta South
-Internews,Media,Bor
+Internews,Media,Bor South
 Internews,Media,Awerial
 Internews,Media,Aweil North
 Internews,Media,Pariang
@@ -1249,18 +1249,18 @@ Catholic Relief Services,Education,Juba
 Catholic Relief Services,Health,Juba
 Catholic Relief Services,Nutrition,Akobo
 Catholic Relief Services,Nutrition,Ayod
-Catholic Relief Services,Nutrition,Bor
+Catholic Relief Services,Nutrition,Bor South
 Catholic Relief Services,Nutrition,Twic East
 Catholic Relief Services,Nutrition,Duk
 Catholic Relief Services,Nutrition,Pochalla
 Catholic Relief Services,Nutrition,Uror
 Catholic Relief Services,Shelter and Non-Food Items,Ayod
-Catholic Relief Services,Shelter and Non-Food Items,Bor
+Catholic Relief Services,Shelter and Non-Food Items,Bor South
 Catholic Relief Services,Shelter and Non-Food Items,Pibor
 Catholic Relief Services,Shelter and Non-Food Items,Uror
 Catholic Relief Services,WASH,Juba
 Catholic Relief Services,WASH,Ayod
-Catholic Relief Services,WASH,Bor
+Catholic Relief Services,WASH,Bor South
 Catholic Relief Services,WASH,Twic East
 Catholic Relief Services,WASH,Duk
 Catholic Relief Services,WASH,Pibor
@@ -1271,7 +1271,7 @@ Catholic Relief Services,Conflict Prevention & Peacebuilding,Kapoeta North
 Catholic Relief Services,Conflict Prevention & Peacebuilding,Kapoeta South
 Catholic Relief Services,Conflict Prevention & Peacebuilding,Torit
 Catholic Relief Services,Conflict Prevention & Peacebuilding,Yambio
-Catholic Relief Services,Conflict Prevention & Peacebuilding,Bor
+Catholic Relief Services,Conflict Prevention & Peacebuilding,Bor South
 Catholic Relief Services,Conflict Prevention & Peacebuilding,Awerial
 Catholic Relief Services,Conflict Prevention & Peacebuilding,Rumbek Centre
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Juba
@@ -1285,7 +1285,7 @@ ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Maridi
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Mundri East
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Mundri West
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Akobo
-ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Bor
+ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Bor South
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Fangak
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Pibor
 ZOA - Relief - Hope - Recovery,Food Security & Livlihoods,Leer
@@ -1303,7 +1303,7 @@ ZOA - Relief - Hope - Recovery,WASH,Torit
 ZOA - Relief - Hope - Recovery,WASH,Maridi
 ZOA - Relief - Hope - Recovery,WASH,Mundri East
 ZOA - Relief - Hope - Recovery,WASH,Mundri West
-ZOA - Relief - Hope - Recovery,WASH,Bor
+ZOA - Relief - Hope - Recovery,WASH,Bor South
 ZOA - Relief - Hope - Recovery,WASH,Fangak
 ZOA - Relief - Hope - Recovery,WASH,Pibor
 ZOA - Relief - Hope - Recovery,WASH,Leer
@@ -1313,7 +1313,7 @@ ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Morobo
 ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Terekeka
 ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Yei
 ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Akobo
-ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Bor
+ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Bor South
 ZOA - Relief - Hope - Recovery,Conflict Prevention & Peacebuilding,Pibor
 AVSI Foundation,Education,Juba
 AVSI Foundation,Education,Ikotos
@@ -1383,7 +1383,7 @@ Christian Aid,WASH,Mayendit
 Christian Aid,WASH,Panyijar
 Christian Aid,WASH,Rubkona
 Christian Aid,Conflict Prevention & Peacebuilding,Juba
-Christian Aid,Conflict Prevention & Peacebuilding,Bor
+Christian Aid,Conflict Prevention & Peacebuilding,Bor South
 Christian Aid,Conflict Prevention & Peacebuilding,Aweil Centre
 Christian Aid,Media,Gogrial East
 GOAL Ireland South Sudan,Food Security & Livlihoods,Maiwut
@@ -1454,11 +1454,11 @@ Centers for International Programs,Health,Mundri West
 Centers for International Programs,Health,Nzara
 Centers for International Programs,Health,Tambura
 Centers for International Programs,Health,Yambio
-Centers for International Programs,Health,Bor
+Centers for International Programs,Health,Bor South
 Centers for International Programs,Health,Awerial
 Joint Aid Manangement,Food Security & Livlihoods,Aweil Centre
 Joint Aid Manangement,Food Security & Livlihoods,Aweil East
-Joint Aid Manangement,Nutrition,Bor
+Joint Aid Manangement,Nutrition,Bor South
 Joint Aid Manangement,Nutrition,Pibor
 Cordaid,Food Security & Livlihoods,Kajo Keji
 Cordaid,Food Security & Livlihoods,Yambio
@@ -1476,7 +1476,7 @@ Cordaid,Health,Koch
 Cordaid,Health,Leer
 Cordaid,Health,Fashoda
 Cordaid,CCCM,Yei
-Cordaid,CCCM,Bor
+Cordaid,CCCM,Bor South
 Cordaid,CCCM,Yirol West
 Cordaid,CCCM,Aweil Centre
 Cordaid,CCCM,Raga
@@ -1485,7 +1485,7 @@ Cordaid,CCCM,Koch
 Cordaid,CCCM,Leer
 Cordaid,CCCM,Fashoda
 Cordaid,CCCM,Malakal
-Cordaid,Nutrition,Bor
+Cordaid,Nutrition,Bor South
 Cordaid,Nutrition,Aweil East
 Cordaid,Nutrition,Aweil North
 Cordaid,Nutrition,Koch
@@ -1514,13 +1514,13 @@ Medecins Sans Frontieres \,Health,Wau
 Medecins Sans Frontieres \,Health,Abiemnon
 Tearfund,Nutrition,Juba
 Tearfund,WASH,Juba
-Tearfund,WASH,Bor
+Tearfund,WASH,Bor South
 Tearfund,WASH,Twic East
 Tearfund,WASH,Uror
 Tearfund,WASH,Aweil East
 INTERSOS,Education,Juba
 INTERSOS,Education,Yambio
-INTERSOS,Education,Bor
+INTERSOS,Education,Bor South
 INTERSOS,Education,Mayendit
 INTERSOS,Education,Mayom
 INTERSOS,Education,Rubkona
@@ -1566,7 +1566,7 @@ Agency for voluntary initiative in development (AVID),Media,Renk
 SAFERWORLD,Conflict Prevention & Peacebuilding,Juba
 SAFERWORLD,Conflict Prevention & Peacebuilding,Torit
 SAFERWORLD,Conflict Prevention & Peacebuilding,Yambio
-SAFERWORLD,Conflict Prevention & Peacebuilding,Bor
+SAFERWORLD,Conflict Prevention & Peacebuilding,Bor South
 SAFERWORLD,Conflict Prevention & Peacebuilding,Rumbek Centre
 SAFERWORLD,Conflict Prevention & Peacebuilding,Rumbek East
 SAFERWORLD,Conflict Prevention & Peacebuilding,Aweil Centre
@@ -1575,27 +1575,27 @@ SAFERWORLD,Conflict Prevention & Peacebuilding,Gogrial East
 SAFERWORLD,Conflict Prevention & Peacebuilding,Tonj North
 International Aid Services,Food Security & Livlihoods,Aweil East
 International Aid Services,WASH,Mundri West
-International Aid Services,WASH,Bor
+International Aid Services,WASH,Bor South
 International Aid Services,WASH,Aweil East
 International Aid Services,WASH,Pariang
 childfund korea (cfk),Education,Juba
 childfund korea (cfk),Education,Ikotos
-childfund korea (cfk),Education,Bor
+childfund korea (cfk),Education,Bor South
 childfund korea (cfk),Health,Juba
 childfund korea (cfk),Health,Budi
-childfund korea (cfk),Health,Bor
+childfund korea (cfk),Health,Bor South
 childfund korea (cfk),Nutrition,Juba
 childfund korea (cfk),Nutrition,Budi
-childfund korea (cfk),Nutrition,Bor
+childfund korea (cfk),Nutrition,Bor South
 childfund korea (cfk),Protection,Juba
 childfund korea (cfk),Protection,Budi
-childfund korea (cfk),Protection,Bor
+childfund korea (cfk),Protection,Bor South
 childfund korea (cfk),Shelter and Non-Food Items,Juba
 childfund korea (cfk),Shelter and Non-Food Items,Budi
-childfund korea (cfk),Shelter and Non-Food Items,Bor
+childfund korea (cfk),Shelter and Non-Food Items,Bor South
 childfund korea (cfk),WASH,Juba
 childfund korea (cfk),WASH,Budi
-childfund korea (cfk),WASH,Bor
+childfund korea (cfk),WASH,Bor South
 German Leprosy and TB Relief Association ,Health,Juba
 German Leprosy and TB Relief Association ,Health,Kajo Keji
 German Leprosy and TB Relief Association ,Health,Lainya
@@ -1616,13 +1616,13 @@ German Leprosy and TB Relief Association ,Health,Wau
 Search For Common Ground,Education,Juba
 Search For Common Ground,Education,Terekeka
 Search For Common Ground,Education,Magwi
-Search For Common Ground,Education,Bor
+Search For Common Ground,Education,Bor South
 Search For Common Ground,Education,Rumbek Centre
 Search For Common Ground,Education,Wau
 Search For Common Ground,Protection,Juba
 Search For Common Ground,Protection,Terekeka
 Search For Common Ground,Protection,Magwi
-Search For Common Ground,Protection,Bor
+Search For Common Ground,Protection,Bor South
 Search For Common Ground,Protection,Rumbek Centre
 Search For Common Ground,Protection,Wau
 Search For Common Ground,Conflict Prevention & Peacebuilding,Juba
@@ -1631,7 +1631,7 @@ Search For Common Ground,Conflict Prevention & Peacebuilding,Yei
 Search For Common Ground,Conflict Prevention & Peacebuilding,Magwi
 Search For Common Ground,Conflict Prevention & Peacebuilding,Torit
 Search For Common Ground,Conflict Prevention & Peacebuilding,Yambio
-Search For Common Ground,Conflict Prevention & Peacebuilding,Bor
+Search For Common Ground,Conflict Prevention & Peacebuilding,Bor South
 Search For Common Ground,Conflict Prevention & Peacebuilding,Awerial
 Search For Common Ground,Conflict Prevention & Peacebuilding,Rumbek Centre
 Search For Common Ground,Conflict Prevention & Peacebuilding,Wau
@@ -1640,7 +1640,7 @@ Search For Common Ground,Governance & Rule of Law,Juba
 Search For Common Ground,Governance & Rule of Law,Terekeka
 Search For Common Ground,Governance & Rule of Law,Yei
 Search For Common Ground,Governance & Rule of Law,Magwi
-Search For Common Ground,Governance & Rule of Law,Bor
+Search For Common Ground,Governance & Rule of Law,Bor South
 Search For Common Ground,Governance & Rule of Law,Awerial
 Search For Common Ground,Governance & Rule of Law,Rumbek Centre
 Search For Common Ground,Governance & Rule of Law,Wau
@@ -1652,7 +1652,7 @@ Search For Common Ground,Media,Yei
 Search For Common Ground,Media,Magwi
 Search For Common Ground,Media,Torit
 Search For Common Ground,Media,Yambio
-Search For Common Ground,Media,Bor
+Search For Common Ground,Media,Bor South
 Search For Common Ground,Media,Awerial
 Search For Common Ground,Media,Rumbek Centre
 Search For Common Ground,Media,Jur River
@@ -1723,7 +1723,7 @@ United Methodist Commitee on Relief,Governance & Rule of Law,Aweil North
 United Methodist Commitee on Relief,Governance & Rule of Law,Aweil South
 United Methodist Commitee on Relief,Governance & Rule of Law,Aweil West
 FOOD FOR THE HUNGRY,Education,Akobo
-FOOD FOR THE HUNGRY,Education,Bor
+FOOD FOR THE HUNGRY,Education,Bor South
 FOOD FOR THE HUNGRY,Education,Twic East
 FOOD FOR THE HUNGRY,Education,Duk
 FOOD FOR THE HUNGRY,Education,Fangak
@@ -1779,7 +1779,7 @@ Christian Aid,WASH,Mayendit
 Christian Aid,WASH,Panyijar
 Christian Aid,WASH,Rubkona
 Christian Aid,Conflict Prevention & Peacebuilding,Juba
-Christian Aid,Conflict Prevention & Peacebuilding,Bor
+Christian Aid,Conflict Prevention & Peacebuilding,Bor South
 Christian Aid,Conflict Prevention & Peacebuilding,Wau
 Real Medicine Foundation,Health,Juba
 Real Medicine Foundation,Health,Ayod
@@ -1866,19 +1866,19 @@ HEKS-EPER(Swiss Church Aid),Conflict Prevention & Peacebuilding,Morobo
 HEKS-EPER(Swiss Church Aid),Conflict Prevention & Peacebuilding,Terekeka
 HEKS-EPER(Swiss Church Aid),Conflict Prevention & Peacebuilding,Yei
 The Lutheran World Federation,Education,Ayod
-The Lutheran World Federation,Education,Bor
+The Lutheran World Federation,Education,Bor South
 The Lutheran World Federation,Education,Twic East
 The Lutheran World Federation,Education,Duk
 The Lutheran World Federation,Education,Uror
 The Lutheran World Federation,Education,Pariang
 The Lutheran World Federation,Education,Maban
 The Lutheran World Federation,Food Security & Livlihoods,Ayod
-The Lutheran World Federation,Food Security & Livlihoods,Bor
+The Lutheran World Federation,Food Security & Livlihoods,Bor South
 The Lutheran World Federation,Food Security & Livlihoods,Twic East
 The Lutheran World Federation,Food Security & Livlihoods,Duk
 The Lutheran World Federation,Food Security & Livlihoods,Uror
 The Lutheran World Federation,Shelter and Non-Food Items,Ayod
-The Lutheran World Federation,Shelter and Non-Food Items,Bor
+The Lutheran World Federation,Shelter and Non-Food Items,Bor South
 The Lutheran World Federation,Shelter and Non-Food Items,Twic East
 The Lutheran World Federation,Shelter and Non-Food Items,Duk
 The Lutheran World Federation,Shelter and Non-Food Items,Uror
@@ -1895,12 +1895,12 @@ ACTED,Food Security & Livlihoods,Maban
 ACTED,Health,Tonj South
 ACTED,CCCM,Juba
 ACTED,CCCM,Kajo Keji
-ACTED,CCCM,Bor
+ACTED,CCCM,Bor South
 ACTED,CCCM,Wau
 ACTED,CCCM,Maban
 ACTED,Protection,Juba
 ACTED,Protection,Kajo Keji
-ACTED,Protection,Bor
+ACTED,Protection,Bor South
 ACTED,Protection,Wau
 ACTED,Protection,Mayom
 ACTED,Protection,Maban
